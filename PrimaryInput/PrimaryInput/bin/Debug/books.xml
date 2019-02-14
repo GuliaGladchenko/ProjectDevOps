@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book kode="defcdr, " author="rferf, " name="erferfref" city="refe" pubHouse="frefe" year="3223" page="344" instance="3" image="true" cd="false" />
+  <Book kode="gbg, " author="bfgb, " name="gfbgb" city="bgbf" pubHouse="gbf" year="3434" page="434" instance="434" image="false" cd="true" />
+  <Book kode="evcf, " author="" name="fdvf" city="fvd" pubHouse="vdfv" year="4333" page="44" instance="344" image="false" cd="true" />
+  <Book kode="пекмпк, кепке, " author="кепкеп, епкпеп, " name="кепмк" city="епкпе" pubHouse="епкепе" year="4343" page="433" instance="34" image="false" cd="true" />
+  <Book kode="кепеп, " author="епкп, " name="екпке" city="еппкеп" pubHouse="кеп" year="4444" page="4545" instance="444" image="true" cd="false" />
+  <Book kode="кпепеп, епкпме, " author="микепк, епкеп, " name="кепке" city="кпепе" pubHouse="кпеп" year="4355" page="4545" instance="45" image="false" cd="true" />
+  <Book kode="кенпрогш, каапенрогшл, " author="ногшлщ, рогшлщз, " name="апролдукенгшщапрол  апролдапролнго  апроенгшнг  апероенгшнгш" city="прол" pubHouse="анеп" year="3333" page="5" instance="5" image="false" cd="false" />
+</ArrayOfBook>
