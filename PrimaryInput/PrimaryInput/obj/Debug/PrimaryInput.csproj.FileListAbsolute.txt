@@ -18,3 +18,13 @@ E:\4 курс\практика\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.
 E:\4 курс\практика\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.csproj.CoreCompileInputs.cache
 E:\4 курс\практика\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.exe
 E:\4 курс\практика\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.pdb
+E:\EPAM\project\PrimaryInput\PrimaryInput\bin\Debug\PrimaryInput.exe.config
+E:\EPAM\project\PrimaryInput\PrimaryInput\bin\Debug\PrimaryInput.exe
+E:\EPAM\project\PrimaryInput\PrimaryInput\bin\Debug\PrimaryInput.pdb
+E:\EPAM\project\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.csprojAssemblyReference.cache
+E:\EPAM\project\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.frmMain.resources
+E:\EPAM\project\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.Properties.Resources.resources
+E:\EPAM\project\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.csproj.GenerateResource.cache
+E:\EPAM\project\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.csproj.CoreCompileInputs.cache
+E:\EPAM\project\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.exe
+E:\EPAM\project\PrimaryInput\PrimaryInput\obj\Debug\PrimaryInput.pdb
